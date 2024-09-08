@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "admin",
+    "database": "pessoa_cadastro_db",
+    "host": "127.0.0.1",
+    "port": 5501,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "admin",
+    "password": "admin",
+    "database": "pessoa_cadastro_test_db",
+    "host": "127.0.0.1",
+    "port": 5501,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "admin",
+    "password": "admin",
+    "database": "pessoa_cadastro_prod_db",
+    "host": "127.0.0.1",
+    "port": 5501,
+    "dialect": "postgres"
+  }
+}
